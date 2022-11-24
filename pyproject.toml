@@ -18,6 +18,7 @@ gevent = "^22.10.1"
 pytz = "^2022.5"
 javascript = "^2015.32.59"
 pelican = "^4.8.0"
+Pillow = "^9.3.0"
 
 [tool.poetry.dev-dependencies]
 
